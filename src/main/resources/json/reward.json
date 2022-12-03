@@ -1,0 +1,97 @@
+{
+   "customerVO":[
+    {
+        "customerID": "1",
+        "customerName": "Ramya",
+        "transVO": [
+            {
+                "transactionID": 1,
+                "transactionDate": "2022-08-11",
+                "amount": 20
+            },
+            {
+                "transactionID": 2,
+                "transactionDate": "2022-09-12",
+                "amount": 290
+            },
+            {
+                "transactionID": 3,
+                "transactionDate": "2022-10-24",
+                "amount": 119
+            },
+            {
+                "transactionID": 4,
+                "transactionDate": "2022-11-30",
+                "amount": 728
+            },
+            {
+                "transactionID": 5,
+                "transactionDate": "2022-12-11",
+                "amount": 7
+            }
+        ]
+    },
+    {
+        "customerID": "2",
+        "customerName": "Subramaniyan",
+        "transVO": [
+            {
+                "transactionID": 1,
+                "transactionDate": "2022-08-11",
+                "amount": 220
+            },
+            {
+                "transactionID": 2,
+                "transactionDate": "2022-08-25",
+                "amount": 70
+            },
+            {
+                "transactionID": 3,
+                "transactionDate": "2022-09-12",
+                "amount": 200
+            },
+            {
+                "transactionID": 4,
+                "transactionDate": "2022-10-24",
+                "amount": 11
+            },
+            {
+                "transactionID": 5,
+                "transactionDate": "2022-11-30",
+                "amount": 72
+            }
+        ]
+    },
+    {
+        "customerID": "3",
+        "customerName": "Ram",
+        "transVO": [
+            {
+                "transactionID": 1,
+                "transactionDate": "2022-09-11",
+                "amount": 70
+            },
+            {
+                "transactionID": 2,
+                "transactionDate": "2022-09-25",
+                "amount": 70
+            },
+            {
+                "transactionID": 3,
+                "transactionDate": "2022-10-12",
+                "amount": 200
+            },
+            {
+                "transactionID": 4,
+                "transactionDate": "2022-10-24",
+                "amount": 70
+            },
+            {
+                "transactionID": 5,
+                "transactionDate": "2022-11-30",
+                "amount": 70
+            }
+        ]
+    }
+]
+}
