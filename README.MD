@@ -26,3 +26,14 @@ Reward Application using Spring Boot Web Restful
 
 
 -Sample Output data looks like (Customer1 has total reward of 1770)
+
+Screenshots:
+
+![Alt text](https://github.com/Ramya-Subramaniyan/getRewardsApp/blob/screenshots/Postman1.JPG?raw=true "All rewards")
+
+![Alt text](https://github.com/Ramya-Subramaniyan/getRewardsApp/blob/screenshots/Postman2.JPG?raw=true "Rewards for customer with id 1")
+
+![Alt text](https://github.com/Ramya-Subramaniyan/getRewardsApp/blob/screenshots/Postman3.JPG?raw=true "Rewards for customer with id 3")
+
+![Alt text](https://github.com/Ramya-Subramaniyan/getRewardsApp/blob/screenshots/eclipse1.JPG?raw=true "Eclipse screenshot")
+
